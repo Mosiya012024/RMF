@@ -1,0 +1,16 @@
+{
+    "slides": [
+    {
+      "src": "https://s3.ap-south-1.amazonaws.com/fmr.prod.media/hrwqv-1717552352947-28631",
+      "alt": "Image 1 for carousel"
+    },
+    {
+      "src": "https://s3.ap-south-1.amazonaws.com/fmr.prod.media/dkuew-1717552352949-87637",
+      "alt": "Image 2 for carousel"
+    },
+    {
+      "src": "https://s3.ap-south-1.amazonaws.com/fmr.prod.media/lhesj-1717552352954-13108",
+      "alt": "Image 3 for carousel"
+    }
+  ]
+}

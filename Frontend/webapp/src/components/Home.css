@@ -1,0 +1,60 @@
+.app-logo {
+    margin-left: 20px;
+    margin-top: 0;
+    margin-right: 50%;
+}
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+}
+
+.login-btn,.signup-btn {
+    margin-top: 20px;
+    font: menu;
+    font-size: 13px;
+    height: 40px;
+    width: 150px;
+    margin-right: 50px;
+    background-color: #f8f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.other-cols { 
+    height: 488px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.other-rows {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.trustedText {
+    padding: 10px 30px 10px 30px;
+    background-color: #f5c0f5;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.findText { 
+    color: #221d43;
+    width: 800px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-size: 55px;
+    font-family: Poppins, sans-serif;
+}
+.searchPlaces {
+    width: 40%;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid green;
+    text-align: center;
+    margin-top: 30px;
+}

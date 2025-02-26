@@ -1,0 +1,43 @@
+.user-app-logo {
+    margin: 0;
+}
+.user-nav-bar {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 0px;
+    background-color: white;
+    width: 100%;
+    z-index: 100;
+}
+
+.user-logo {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    position: absolute;
+    right: 0px;
+}
+
+.user-name {
+    margin: 5px;
+    align-self: center;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: monospace;
+}
+.logout-btn {
+    position: absolute;
+    right: 0px;
+    top: 54px;
+    height: 40px;
+    width: 7%;
+    background: white;
+}
+.post-room-btn {
+    margin: 12px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    cursor: pointer;
+}

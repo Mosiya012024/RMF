@@ -1,0 +1,36 @@
+.main-chat-notification {
+    margin: 100px;
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.sub-chat-notification {
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid black;
+    > :nth-child(1) {
+        padding: 10px;
+        background-color: beige;
+        color: grey;
+    }
+    > :nth-child(2) {
+        padding: 10px;
+        background-color: rgb(77, 182, 67);
+        color: grey;
+    }
+    >:nth-child(3) {
+        padding: 10px;
+        background-color: rgb(214, 95, 71);
+        color: grey;
+    }
+}
+
+.notification-panel {
+    display: flex;
+    flex-direction: row;
+}

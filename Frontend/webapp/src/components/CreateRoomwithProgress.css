@@ -1,0 +1,18 @@
+.main-modal {
+    background-color: white;
+    padding: 20px;
+}
+
+.progressBar {
+    /* width: 70%; */
+    height: 10px;
+    background-color: rgb(147, 143, 143);
+    border-radius: 10px;
+}
+
+.progressBarFill {
+    height: 10px;
+    background-color: greenyellow;
+    transition: width 2s ease-out;
+    border-radius: 10px;
+}
