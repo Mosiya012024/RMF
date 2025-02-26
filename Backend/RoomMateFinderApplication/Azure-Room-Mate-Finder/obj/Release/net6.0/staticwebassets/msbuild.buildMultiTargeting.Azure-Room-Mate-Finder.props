@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Azure-Room-Mate-Finder.props" />
+</Project>

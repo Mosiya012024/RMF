@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoomMateFinderApplication", "RoomMateFinderApplication\RoomMateFinderApplication.csproj", "{BD472B48-9350-4A14-9B7F-1B963DE5BEB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Azure-Room-Mate-Finder", "Azure-Room-Mate-Finder\Azure-Room-Mate-Finder.csproj", "{6D4139A4-E579-4629-95AB-E2BA7958E2D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLott", "ParkingLott\ParkingLott.csproj", "{B6CC07DE-C981-49D6-B5E9-8448EC326C11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD472B48-9350-4A14-9B7F-1B963DE5BEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD472B48-9350-4A14-9B7F-1B963DE5BEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD472B48-9350-4A14-9B7F-1B963DE5BEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD472B48-9350-4A14-9B7F-1B963DE5BEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4139A4-E579-4629-95AB-E2BA7958E2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4139A4-E579-4629-95AB-E2BA7958E2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4139A4-E579-4629-95AB-E2BA7958E2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4139A4-E579-4629-95AB-E2BA7958E2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CC07DE-C981-49D6-B5E9-8448EC326C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CC07DE-C981-49D6-B5E9-8448EC326C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CC07DE-C981-49D6-B5E9-8448EC326C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CC07DE-C981-49D6-B5E9-8448EC326C11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B53CD8-1A21-4594-9780-1BF778D8AAA2}
+	EndGlobalSection
+EndGlobal

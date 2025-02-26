@@ -1,0 +1,38 @@
+.main-modal {
+    background-color: white;
+    padding: 20px;
+    width: 700px;
+    height: 400px;
+}
+.modal-close-btn {
+    position: relative;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    font-size: 20px;
+    border-color: gainsboro;
+    border-radius: 50%;
+    background-color: none;
+    background-color: white;
+    cursor: pointer;
+    left: 93%;
+}
+.modal-input-tags {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.input-ele-main {
+    width: 33%;
+    height: 70px;
+}
+.cancel-btn {
+    margin: 10px;
+    padding: 10px;
+    margin-left: 450px;
+}
+.save-btn {
+    margin: 10px;
+    padding: 10px 15px;
+}

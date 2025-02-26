@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Azure-Room-Mate-Finder.props" />
+</Project>

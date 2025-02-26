@@ -1,0 +1,92 @@
+.main-modal {
+    background-color: white;
+    padding: 20px;
+}
+
+.room-heading {
+    text-align: center;
+    font-style: italic;
+    color: #ac41d3;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.progressBar {
+    width: auto;
+    height: 10px;
+    background-color: rgb(147, 143, 143);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.progressBarFill {
+    height: 10px;
+    background-color: rgb(106, 80, 219);
+    transition: width 1s ease-out;
+}
+.btnActive {
+    background-color: blanchedalmond;
+}
+.slide-hidden {
+    display: none;
+}
+.page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btnGroup {
+    position: relative;
+    bottom: -10px;
+    display: flex;
+    justify-content: center;
+    > Button {
+        margin: 10px;
+    }
+}
+.AmenityType {
+    > Button {
+        margin: 10px;
+    }
+}
+
+.Address-modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    >:nth-child(1), >:nth-child(2), >:nth-child(3), >:nth-child(4) {
+        margin: 20px;
+    }
+}
+
+.allSizes {
+    padding-left: 50px;
+    > button {
+        margin: 20px;
+        width: 130px;
+        height: 40px;
+    }
+}
+
+.allfiles {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.btn-group {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.btn-x {
+    align-self: baseline;
+    background-color: black;
+    border: none;
+    color: white;
+    border-radius: 50%;
+}

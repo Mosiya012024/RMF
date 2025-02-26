@@ -1,0 +1,70 @@
+.option {
+    display:flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.input {
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    border: 1px solid;
+}
+.signup-img {
+    width: 50%;
+    height: 590px;
+}
+.signup-main {
+    display: flex;
+    flex-direction: row;
+}
+.options-main {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+}
+.signup-parent {
+    margin: 50px;
+}
+
+.close-btn {
+    position: absolute;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    font-size: 20px;
+    border-color: gainsboro;
+    border-radius: 50%;
+    background-color: none;
+    background-color: white;
+    cursor: pointer;
+    top: 30px;
+}
+.app-name {
+    font-size: xx-large;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    color: #535151;
+    margin-bottom: 50px;
+}
+.sign-up-btn {
+    background: #918f8f;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-left: 50%;
+    margin-top: 5%;
+    cursor: pointer;
+}
+.onBlur-msg {
+    color: red;
+    font-size: small;
+    padding: 5px 0 0 10px;
+}
+.false {
+    background-color: rgb(76, 183, 62)
+}
